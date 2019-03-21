@@ -18,4 +18,5 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 附上截图
+<img src='./src/assets/checkbox_img.png' width="520px" height="608px" />
